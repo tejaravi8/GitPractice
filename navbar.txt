@@ -1,6 +1,0 @@
-home
-Achievements
-projects
-services
-
-this includes commands and content in the project section
